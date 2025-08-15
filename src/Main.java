@@ -2,10 +2,8 @@ public class Main{
 
     public static void main(String[] args){
         System.out.println("Hello, world");
-
         teste(100);
     }
-
 
     public static void teste(int x){
 
